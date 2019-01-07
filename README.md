@@ -6,5 +6,4 @@ LTC1865L(ADC)
 LTC1654(DAC)
 
 Demo
-
-https://youtu.be/Vk-2Nv14m0k
+https://www.youtube.com/watch?v=Vk-2Nv14m0k
